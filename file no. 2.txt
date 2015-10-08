@@ -1,1 +1,2 @@
 file no. 2 modified
+modified file no. 2 on branch new_branch
