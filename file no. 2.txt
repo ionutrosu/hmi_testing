@@ -1,3 +1,7 @@
 file no. 2 modified
+<<<<<<< HEAD
 modified file no. 2 on master
 another line
+=======
+modified file no. 2 on branch new_branch
+>>>>>>> origin/new_branch
