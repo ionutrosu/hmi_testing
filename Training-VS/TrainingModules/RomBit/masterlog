@@ -1,0 +1,7 @@
+#!/bin/sh
+#
+# just a log creating script:
+perl ./doc/log.pl
+perl ./doc/parse.pl ".\doc\temp.csv" ".\doc\master_log_BR213_GC_HL_PROCESSED.csv"
+rm -r ./doc/temp.csv
+exit 0
