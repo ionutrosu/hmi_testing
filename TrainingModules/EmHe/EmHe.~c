@@ -1,9 +1,0 @@
-#include "EmHe.h"
-#include "../../Console.h"
-
-void EmHe_vPrintMe(void)
-{
-	//add stuff here
-	//Test
-	Console_vPrint("EmHe: GIT training! \n");
-}

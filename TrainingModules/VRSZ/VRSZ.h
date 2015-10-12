@@ -1,1 +1,0 @@
-void VRSZ_vPrintMe(void);

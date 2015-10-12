@@ -1,1 +1,0 @@
-void EmHe_vPrintMe(void);

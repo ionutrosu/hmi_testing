@@ -1,1 +1,0 @@
-void SteGhe_vPrintMe(void);

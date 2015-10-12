@@ -1,1 +1,0 @@
-void ViSta_vPrintMe(void);
