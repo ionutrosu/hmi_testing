@@ -2,3 +2,6 @@ shieru' L
 
 
 Cu modificari
+
+
+ba luci nu mai mazgali fisierele de pe GIT!!!
