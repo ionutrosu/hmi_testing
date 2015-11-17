@@ -1,1 +1,0 @@
-void AdChi_vPrintMe(void);

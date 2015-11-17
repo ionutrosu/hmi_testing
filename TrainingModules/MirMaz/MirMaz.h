@@ -1,1 +1,0 @@
-void MirMaz_vPrintMe(void);

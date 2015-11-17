@@ -1,1 +1,0 @@
-void VasNik_vPrintMe(void);
