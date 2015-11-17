@@ -1,0 +1,30 @@
+	Step 1.
+- Pentru cine nu are deja clonat repository-ul din gitlab, clona la repository-ul https://github.com/ionutrosu/hmi_testing.git
+	Step 2.
+- Creati din commit-ul df5856f un branch cu numele vostru (exemplu: IonutRosu).
+	Step 3.
+- Modificati doua din fisierele deja existente (adaugati o linie / stergeti o linie) si faceti commit la modificari.
+	Step 4.
+- Creeati doua fisiere noi, si adaugati-le in repository.
+	Step 5.
+- Faceti un commit prin care sa stergeti unul din fisierele pe care le-ati adaugat la commit-ul anterior.
+	Step 6.
+- Faceti modificari pe unul din fisiere si puneti modificarile respective in stash. Dupa ce ati facut moficiarile, click pe uncommited changes, apoi click pe Repository (in bara de sus), si stash changes.
+  O sa observati ca uncommited changes dispare, iar in fereastra cu branch-urile repository-ului, o sa apara o sectiune noua, Stashes.
+  Schimbati branch-ul pe master, faceti o modificare noua aici, commit, iar apoi reveniti pe branch-ul cu numele vostru, si dati apply stash. Click dreapta pe stash si apply stash on... 
+  Comiteti modificarile.
+	Step 7.
+- Pe branch-ul vostru, modificati unul din fisierele initiale ale proiectului (file1.txt, file2.txt, etc.) si comiteti modificarile. Aduceti aceasta modificare pe branch-ul de master, prin folosirea feature-ului "Patch".
+  Selectati ultimul commit, click dreapta, create patch. Salvati patch-ul sub ce nume vreti voi. Schimbati branch-ul pe master, si din meniul "Actions" din bara de sus, folositi submeniul "Apply Patch".
+	Step 8.
+- Din branch-ul cu numele vostru, creeati un nou branch, cu ce nume vreti voi. Pe acest nou branch, faceti un commit nou cu modificari pe fisierele existente. Aduceti modificarile din branch-ul acesta, pe branchul
+  cu numele vostru, cu ajutorul feature-ului "Cherry Pick". Schimbati branch-ul pe cel in care doriti sa aduceti modificarile, click dreapta pe commit-ul pe care vreti sa il aduceti in branch-ul vostru, si click "Cherry Pick"
+	DStep 9.
+- Faceti merge intre cele doua branch-uri pe care le-ati creeat iar apoi faceti merge cu branch-ul master. P.S. Rezolvati conflictele.
+
+
+Pentru orice nelamuriri sau intrebari, nu ezitati sa ma contactati.
+
+Spor la treaba!
+
+
