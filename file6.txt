@@ -3,5 +3,4 @@ file 6 line 2
 file 6 line 3
 
 file 6 line 4
-
-file 6 line 5
+Linia de mai jos e stearsa
