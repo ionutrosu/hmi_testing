@@ -4,3 +4,9 @@ file 6 line 3
 file 6 line 1
 file 6 line 2
 file 6 line 3
+file 6 line 1
+file 6 line 2
+file 6 line 3
+file 6 line 1
+file 6 line 2
+file 6 line 3
